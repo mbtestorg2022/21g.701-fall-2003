@@ -4,6 +4,7 @@ description: This resource contains the information regarding hacer comparacione
   entre estas cuatro personas y luego compararlos contigo.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-701-spanish-i-fall-2003/ea6b9959f48ccea69d93b3c068c6e7d1_MIT21G_701F03_21adjcom.pdf
 file_type: application/pdf
+parent_uid: 0cc77aeb-9d79-6c9b-9939-d35082c099f4
 resourcetype: Document
 title: Hacer comparaciones entre estas cuatro personas y luego compararlos contigo
 uid: ea6b9959-f48c-cea6-9d93-b3c068c6e7d1
